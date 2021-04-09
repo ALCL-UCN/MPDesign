@@ -27,7 +27,7 @@ public class tuiClass
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod(int y)
+    public int sampleMethodY(int y)
     {
         // put your code here
         return x + y;
